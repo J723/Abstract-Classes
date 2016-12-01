@@ -1,0 +1,2 @@
+D:\scuola\informatica\programmi c#\Classi astratte\Tassonomie\Tassonomie\bin\Debug\Tassonomie.exe.config
+C:\Users\Linguistico\Desktop\Nuova cartella\Abstract-Classes-master\Tassonomie\Tassonomie\bin\Debug\Tassonomie.exe.config
