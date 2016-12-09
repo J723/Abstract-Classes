@@ -1,1 +1,15 @@
 D:\scuola\informatica\programmi c#\Classi astratte\Tassonomie\Tassonomie\bin\Debug\Tassonomie.exe.config
+C:\Users\Linguistico\Desktop\Nuova cartella\Abstract-Classes-master\Tassonomie\Tassonomie\bin\Debug\Tassonomie.exe.config
+C:\Users\Linguistico\Desktop\Nuova cartella (2)\Tassonomie\Tassonomie\Abstract-Classes-master\Tassonomie\Tassonomie\bin\Debug\Tassonomie.exe.config
+C:\Users\Linguistico\Desktop\Nuova cartella (2)\Tassonomie\Tassonomie\Abstract-Classes-master\Tassonomie\Tassonomie\obj\Debug\Tassonomie.csprojResolveAssemblyReference.cache
+E:\Tassonomie\Tassonomie\bin\Debug\Tassonomie.exe.config
+E:\Tassonomie\Tassonomie\obj\Debug\Tassonomie.csprojResolveAssemblyReference.cache
+D:\scuola\informatica\programmi c#\Classi astratte\Tassonomie\Tassonomie\obj\Debug\Tassonomie.csprojResolveAssemblyReference.cache
+D:\scuola\informatica\programmi c#\Classi astratte\Tassonomie\Tassonomie\bin\Debug\Tassonomie.exe
+D:\scuola\informatica\programmi c#\Classi astratte\Tassonomie\Tassonomie\bin\Debug\Tassonomie.pdb
+D:\scuola\informatica\programmi c#\Classi astratte\Tassonomie\Tassonomie\bin\Debug\Menu.dll
+D:\scuola\informatica\programmi c#\Classi astratte\Tassonomie\Tassonomie\bin\Debug\System.Net.Http.dll
+D:\scuola\informatica\programmi c#\Classi astratte\Tassonomie\Tassonomie\bin\Debug\Menu.pdb
+D:\scuola\informatica\programmi c#\Classi astratte\Tassonomie\Tassonomie\bin\Debug\System.Net.Http.xml
+D:\scuola\informatica\programmi c#\Classi astratte\Tassonomie\Tassonomie\obj\Debug\Tassonomie.exe
+D:\scuola\informatica\programmi c#\Classi astratte\Tassonomie\Tassonomie\obj\Debug\Tassonomie.pdb
